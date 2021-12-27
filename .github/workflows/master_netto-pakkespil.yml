@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'netto-pakkespil'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76DAF778BA89417EA2647F113AAF7F57 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED55D0128ED749939A9F48CC6BC4C06B }}
